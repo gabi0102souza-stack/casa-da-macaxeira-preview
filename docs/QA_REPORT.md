@@ -6,8 +6,9 @@ Data: 07/10/2026. Navegador integrado do Codex; desktop e viewports de teste exp
 
 - Integridade estática: **PASS**, 57 referências verificadas; JavaScript com sintaxe válida.
 - Local: **PASS** em 320, 390, 768 e 1440 pixels.
-- Publicação: pendente.
-- URL pública: prevista `https://gabi0102souza-stack.github.io/casa-da-macaxeira-preview/`.
+- Publicação: **PASS**, GitHub Pages, HTTPS, branch `main`, raiz do repositório.
+- URL pública: [Casa da Macaxeira](https://gabi0102souza-stack.github.io/casa-da-macaxeira-preview/).
+- Repositório: [casa-da-macaxeira-preview](https://github.com/gabi0102souza-stack/casa-da-macaxeira-preview).
 
 ## Escopo
 
@@ -57,6 +58,16 @@ Payload de arquivos para a **página inteira**, somando variantes escolhidas, HT
 
 ## Verificação pública
 
-Pendente após habilitar GitHub Pages. A entrega final só ocorrerá após abrir a URL pública, verificar desktop/mobile, assets e links.
+**PASS** em 320 × 740, 390 × 844, 768 × 1024 e 1440 × 960. A URL pública foi aberta no navegador, com imagens e fontes carregadas, sem overflow horizontal em nenhuma dessas larguras. O desktop e o mobile foram conferidos visualmente.
 
-Nenhum pedido, reserva ou mensagem é enviado nos testes. WhatsApp/tel/mailto são verificados como destinos; não se executa contato com a empresa.
+- As âncoras de cardápio, ambiente e endereço funcionaram no site publicado.
+- Menu móvel abriu; Escape fechou e devolveu focus. O details de cuscuz/escondidinhos expandiu os itens esperados.
+- A página de créditos abriu pelo rodapé e voltou corretamente para a proposta.
+- O CTA de pedido abriu a página pública do WhatsApp com **+55 82 98753-3631** e a mensagem de consulta esperada. Não se abriu a conversa nem se enviou mensagem.
+- **21 arquivos de produção** responderam com HTTP 200 e conteúdo correspondente à cópia local: HTML, créditos, robots, CSS, JS, fotos, variantes, fontes e licenças. Normalização CRLF/LF foi tolerada somente em texto; hashes da resposta estão registrados. Todos os srcsets foram verificados, inclusive variantes não escolhidas no viewport.
+- Nenhum erro/aviso de console associado ao domínio do site. `noindex, nofollow` confirmado no DOM público.
+- Primeiro deploy: [workflow concluído com sucesso](https://github.com/gabi0102souza-stack/casa-da-macaxeira-preview/actions/runs/37658155111), código `0d133e0`. O commit posterior acrescenta relatório, evidências e script de QA, sem alterar HTML/CSS/JS/imagens.
+
+Evidências: [desktop 1440](qa/public-desktop-1440.jpg), [desktop completo](qa/public-desktop-full.jpg), [mobile 390](qa/public-mobile-390.jpg), [tela 320](qa/public-320.jpg), [tablet 768](qa/public-768.jpg), [DOM e interações](qa/public-audit.json), [respostas HTTPS e hashes](qa/public-http.json).
+
+Nenhum pedido, reserva ou mensagem foi enviado nos testes. Tel/mailto foram verificados como destinos; não se executou contato com a empresa. As limitações de auditoria de acessibilidade e performance descritas acima também se aplicam ao QA público.

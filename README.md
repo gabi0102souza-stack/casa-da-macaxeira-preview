@@ -6,17 +6,17 @@ Site estático com HTML semântico, CSS responsivo e JavaScript mínimo. Fotos r
 
 ## Publicação
 
-- URL prevista: `https://gabi0102souza-stack.github.io/casa-da-macaxeira-preview/`
-- Repositório previsto: `https://github.com/gabi0102souza-stack/casa-da-macaxeira-preview`
+- URL pública: [Abrir o site](https://gabi0102souza-stack.github.io/casa-da-macaxeira-preview/)
+- Repositório: [casa-da-macaxeira-preview](https://github.com/gabi0102souza-stack/casa-da-macaxeira-preview)
 - Branch: `main`
 - GitHub Pages: diretório raiz da branch.
-- Status efetivo e validação pública: [QA_REPORT](docs/QA_REPORT.md).
+- Status: **publicado via HTTPS**, com QA local e público concluídos em 07/10/2026. [QA_REPORT](docs/QA_REPORT.md).
 
 ## Abrir localmente
 
 Na pasta do projeto, execute `python -m http.server 4178 --bind 127.0.0.1` e abra `http://127.0.0.1:4178/`. Não há etapa de build nem dependências de produção.
 
-Verificações de integridade: `python scripts/check_site.py` e `node --check assets/js/site.js`.
+Verificações de integridade: `python scripts/check_site.py` e `node --check assets/js/site.js`. Após deploy, `python scripts/check_public.py` verifica respostas HTTPS e compara os 21 arquivos de produção com a cópia local, tolerando apenas normalização de quebras de linha em texto.
 
 ## Estrutura
 
