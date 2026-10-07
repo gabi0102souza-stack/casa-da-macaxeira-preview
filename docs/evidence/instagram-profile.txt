@@ -1,0 +1,131 @@
+Fonte: https://www.instagram.com/casadamacaxeira/
+Consulta 07/10/2026
+
+  - button "Ver story do perfil":
+    - link "Foto do perfil de casadamacaxeira":
+      - img "Foto do perfil de casadamacaxeira"
+  - heading "casadamacaxeira" [level=2]:
+    - generic: casadamacaxeira
+  - list:
+    - link "13 mil seguidores":
+      - /url: "#"
+      - generic "13.015": 13 mil
+      - text: seguidores
+    - link "1.775 seguindo":
+      - /url: "#"
+      - generic: "1.775"
+      - text: seguindo
+  - generic: Casa Da Macaxeira
+  - link "Threads casadamacaxeira":
+    - /url: https://www.threads.com/@casadamacaxeira?xmt=AQG0a03Svwv2IYs49srzqT0Y2CdD6BLh-pjNU6Zp27k22iU
+    - img "Threads"
+    - generic: casadamacaxeira
+  - button "🧡O sabor do Nordeste que abraça! 🤩 🍽️ Almoço & Jantar 📆 Todos os dias | ⏰ 11h às 23h 👇🏻Peça agora e surpreenda-se 🤩":
+    - text: 🧡O sabor do Nordeste que abraça! 🤩
+    - text: 🍽️ Almoço & Jantar
+    - text: 📆 Todos os dias | ⏰ 11h às 23h
+    - text: 👇🏻Peça agora e surpreenda-se 🤩
+  - button "Ícone de link linktr.ee/Casadamacaxeira e mais 1":
+    - img "Ícone de link"
+    - generic: linktr.ee/Casadamacaxeira e mais 1
+  - menu:
+    - list:
+      - link "Ver destaque de celebridades":
+        - /url: /stories/highlights/18029332474459409/
+        - button "Foto do story no destaque de casadamacaxeira celebridades":
+          - button "Foto do story no destaque de casadamacaxeira":
+            - img "Foto do story no destaque de casadamacaxeira"
+          - generic: celebridades
+      - link "Ver destaque de Clientes":
+        - /url: /stories/highlights/17897051137251402/
+        - button "Foto do story no destaque de casadamacaxeira Clientes":
+          - button "Foto do story no destaque de casadamacaxeira":
+            - img "Foto do story no destaque de casadamacaxeira"
+          - generic: Clientes
+      - link "Ver destaque de feedback":
+        - /url: /stories/highlights/17880692911720389/
+        - button "Foto do story no destaque de casadamacaxeira feedback":
+          - button "Foto do story no destaque de casadamacaxeira":
+            - img "Foto do story no destaque de casadamacaxeira"
+          - generic: feedback
+      - link "Ver destaque de Nosso conceito":
+        - /url: /stories/highlights/17867118241802274/
+        - button "Foto do story no destaque de casadamacaxeira Nosso conceito":
+          - button "Foto do story no destaque de casadamacaxeira":
+            - img "Foto do story no destaque de casadamacaxeira"
+          - generic: Nosso conceito
+      - link "Ver destaque de IFOOD":
+        - /url: /stories/highlights/18195459094222638/
+        - button "Foto do story no destaque de casadamacaxeira IFOOD":
+          - button "Foto do story no destaque de casadamacaxeira":
+            - img "Foto do story no destaque de casadamacaxeira"
+          - generic: IFOOD
+      - link "Ver destaque de Parcerias🙏🏻":
+        - /url: /stories/highlights/17863159084969735/
+        - button "Foto do story no destaque de casadamacaxeira Parcerias🙏🏻":
+          - button "Foto do story no destaque de casadamacaxeira":
+            - img "Foto do story no destaque de casadamacaxeira"
+          - generic: Parcerias🙏🏻
+      - link "Ver destaque de 📍Localização":
+        - /url: /stories/highlights/17932995961976647/
+        - button "Foto do story no destaque de casadamacaxeira 📍Localização":
+          - button "Foto do story no destaque de casadamacaxeira":
+            - img "Foto do story no destaque de casadamacaxeira"
+          - generic: 📍Localização
+    - button "Avançar"
+  - tablist:
+    - link "Posts":
+      - /url: /casadamacaxeira/
+      - img "Posts"
+    - link "Reels":
+      - /url: "#"
+      - img "Reels"
+    - link "Marcados":
+      - /url: "#"
+      - img "Marcados"
+  - tabpanel
+  - link "Video by ℳ𝒶𝓎𝒸ℴ𝓃 𝒯ℴ𝒸𝒽𝓪 on August 28, 2026. Pode ser uma imagem de biryani, prato e texto que diz \"MACEIó\". Clipe":
+    - /url: /maycontochaoficial/reel/DclzBZoIsg3/
+    - img "Video by ℳ𝒶𝓎𝒸ℴ𝓃 𝒯ℴ𝒸𝒽𝓪 on August 28, 2026. Pode ser uma imagem de biryani, prato e texto que diz \"MACEIó\"."
+    - img "Clipe"
+  - link "Photo by Casa Da Macaxeira on June 03, 2026.":
+    - /url: /casadamacaxeira/p/DZI3FZMPkNA/
+    - img "Photo by Casa Da Macaxeira on June 03, 2026."
+  - link "Video by THIAGO PARANHOS on May 14, 2026. Clipe":
+    - /url: /paranhosthy/reel/DYVmvlcBs6D/
+    - img "Video by THIAGO PARANHOS on May 14, 2026."
+    - img "Clipe"
+  - link "Photo by Casa Da Macaxeira on March 18, 2026.":
+    - /url: /casadamacaxeira/p/DWB9FrTgP4M/
+    - img "Photo by Casa Da Macaxeira on March 18, 2026."
+  - link "Video by Casa Da Macaxeira on March 17, 2026. Clipe":
+    - /url: /casadamacaxeira/reel/DV_cyKagMXO/
+    - img "Video by Casa Da Macaxeira on March 17, 2026."
+    - img "Clipe"
+  - link "Video by Casa Da Macaxeira on February 19, 2026. Clipe":
+    - /url: /casadamacaxeira/reel/DU8YFeSAPhE/
+    - img "Video by Casa Da Macaxeira on February 19, 2026."
+    - img "Clipe"
+  - link "Video by Casa Da Macaxeira on February 12, 2026. Clipe":
+    - /url: /casadamacaxeira/reel/DUqvh9Mj9Bh/
+    - img "Video by Casa Da Macaxeira on February 12, 2026."
+    - img "Clipe"
+  - link "Photo by Casa Da Macaxeira on December 05, 2025. Carrossel":
+    - /url: /casadamacaxeira/p/DR4fY9qAMZc/
+    - img "Photo by Casa Da Macaxeira on December 05, 2025."
+    - img "Carrossel"
+  - link "Video by Casa Da Macaxeira on November 20, 2025. Clipe":
+    - /url: /casadamacaxeira/reel/DRSnlvnj6qv/
+    - img "Video by Casa Da Macaxeira on November 20, 2025."
+    - img "Clipe"
+  - link "Photo by Casa Da Macaxeira on May 26, 2025.":
+    - /url: /casadamacaxeira/p/DKIHsKrpuhA/
+    - img "Photo by Casa Da Macaxeira on May 26, 2025."
+  - link "Photo by Casa Da Macaxeira on April 20, 2025.":
+    - /url: /casadamacaxeira/p/DIq2jfeRxRY/
+    - img "Photo by Casa Da Macaxeira on April 20, 2025."
+  - link "Photo by Casa Da Macaxeira on March 16, 2025.":
+    - /url: /casadamacaxeira/p/DHQ0ZfGpBnP/
+    - img "Photo by Casa Da Macaxeira on March 16, 2025."
+  - button "Mostrar mais posts de casadamacaxeira":
+    - generic: Mostrar mais posts de casadamacaxeira

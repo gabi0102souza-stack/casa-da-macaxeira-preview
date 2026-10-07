@@ -1,0 +1,194 @@
+{
+  "reviewedOn": "2026-10-07",
+  "assets": [
+    {
+      "id": "logo-original",
+      "priority": "principal",
+      "imageUrl": "https://ugc.production.linktr.ee/lHQdQLqzSWSQ6SsJc8Og_IMG_2061.JPG",
+      "sourcePageUrl": "https://linktr.ee/Casadamacaxeira",
+      "sourceType": "Avatar do Linktree vinculado ao Instagram e Google Maps oficiais",
+      "caption": "Casa da Macaxeira Restaurante",
+      "datePublished": null,
+      "dateContext": "Data do arquivo não informada. Linktree informa adesão em junho de 2023, o que não é data da imagem.",
+      "contentIdentification": "Logo original circular laranja, tipografia branca e desenho de telhado.",
+      "usageNotes": "Preservar proporção e origem; não redesenhar como se fosse outro logo.",
+      "width": 600,
+      "height": 600,
+      "rights": {
+        "license": null,
+        "permissionStatus": "pendente",
+        "reuseEvidence": "Fonte pública consultada não apresentou licença de reutilização nem autorização específica.",
+        "publicationContext": "Candidata para proposta pública independente com aviso; não é evidência de autorização para site oficial."
+      },
+      "outputs": [
+        {
+          "file": "assets/images/logo.webp",
+          "sha256": "cac3f5c2c26ad51211abe5c3cbed0936b13cab2a6662194cf1587bcad50c73c9",
+          "bytes": 2802
+        },
+        {
+          "file": "assets/images/favicon.png",
+          "sha256": "7d391189f85439ff854259c5aac680dabb35668e7b53df2de1ca8de9d0fabc90",
+          "bytes": 5289
+        }
+      ]
+    },
+    {
+      "id": "prato-oficial-jun2026",
+      "priority": "principal",
+      "imageUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.82787-15/714805422_18615927868014274_1175499043212171286_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMTYxODUzOTU3NTcyMjgxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=43FqHt2rQa0Q7kNvwGf7b9o&_nc_oc=AdqfAYEpCry2rirEY9PXQNUuyuCdQHjbikeOf4Nfg0y4xk09E3PxQaaPYNreLkklt6g2kfVMu270-xVcFWbmV1hu&_nc_zt=23&_nc_ht=instagram.fgru6-1.fna&_nc_gid=lYBFqD5qmjdUepzMOgvCag&_nc_ss=7c60f&oh=00_AQM2StZtOkEOVQkq-i5sz8HGMgSwaTruOG5lb76gucskIg&oe=6ACC3AF7",
+      "sourcePageUrl": "https://www.instagram.com/casadamacaxeira/p/DZI3FZMPkNA/",
+      "embedPageUrl": "https://www.instagram.com/p/DZI3FZMPkNA/embed/",
+      "sourceType": "Publicação de @casadamacaxeira",
+      "caption": "Carne suculenta, fritas crocantes e aquele molho especial para completar.",
+      "datePublished": "2026-06-03",
+      "dateContext": "Data informada no og:description do post oficial.",
+      "contentIdentification": "Travessa com carne, cebolas, fritas, tomate e alface. Caption não identifica corte, carne de sol nem macaxeira.",
+      "usageNotes": "Melhor candidata para abertura por qualidade e publicação recente. O CDN tem URL temporária; usar arquivo local com origem preservada.",
+      "width": 1080,
+      "height": 1440,
+      "rights": {
+        "license": null,
+        "permissionStatus": "pendente",
+        "reuseEvidence": "Fonte pública consultada não apresentou licença de reutilização nem autorização específica.",
+        "publicationContext": "Candidata para proposta pública independente com aviso; não é evidência de autorização para site oficial."
+      },
+      "outputs": [
+        {
+          "file": "assets/images/cozinha-540.webp",
+          "sha256": "c2fee2b8e1aef8b05eddae4ad6e799cc66a197a9accf47ead1d65a561965c629",
+          "bytes": 66318
+        },
+        {
+          "file": "assets/images/cozinha-810.webp",
+          "sha256": "2229cda8a25072d64477946b467f5a10d4d140f389fd18ee8faad6a65eff83a9",
+          "bytes": 115508
+        },
+        {
+          "file": "assets/images/cozinha-1080.webp",
+          "sha256": "8430ca44b68c14e944e72cd334924b1520294ba2c814b5f62d7f2b96c7306d7a",
+          "bytes": 168446
+        }
+      ]
+    },
+    {
+      "id": "drink-oficial-mar2026",
+      "priority": "principal",
+      "imageUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.82787-15/653959940_18594565453014274_6336006750930214510_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1NTYzMTQyNjkzODUzNTQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5oZmmIKjx-YQ7kNvwGZdiRP&_nc_oc=Adpu8pokTNr0uYoxB3xcWlFZpu8k7cyry3B2bSPsfzZT8_fd59yRvLmzDrEtCmes1sCHc4XP_sddmYQ6EQ8nXd49&_nc_zt=23&_nc_ht=instagram.fgru6-1.fna&_nc_gid=eXigphyfWFIB5prriFP65w&_nc_ss=7c60f&oh=00_AQP7Y7ciEFxvpBFL3T-jx3niDuRcO26tQmYm7ls6RDX7zA&oe=6ACC66B8",
+      "sourcePageUrl": "https://www.instagram.com/casadamacaxeira/p/DWB9FrTgP4M/",
+      "embedPageUrl": "https://www.instagram.com/p/DWB9FrTgP4M/embed/",
+      "sourceType": "Publicação de @casadamacaxeira",
+      "caption": "Sol, sabor e um drink perfeito",
+      "datePublished": "2026-03-18",
+      "dateContext": "Data informada no og:description do post oficial.",
+      "contentIdentification": "Taça com bebida, gelo e rodela de limão. Não identifica nome, álcool, ingredientes ou tipo do drink.",
+      "usageNotes": "Imagem atual de bebida para bloco secundário. O CDN tem URL temporária; usar arquivo local com origem preservada.",
+      "width": 1080,
+      "height": 1440,
+      "rights": {
+        "license": null,
+        "permissionStatus": "pendente",
+        "reuseEvidence": "Fonte pública consultada não apresentou licença de reutilização nem autorização específica.",
+        "publicationContext": "Candidata para proposta pública independente com aviso; não é evidência de autorização para site oficial."
+      },
+      "outputs": [
+        {
+          "file": "assets/images/drink-450.webp",
+          "sha256": "5bca882467ca1761a6321234d75d2700b7f329c476e8f7036c48bd6ac974b0ec",
+          "bytes": 25562
+        },
+        {
+          "file": "assets/images/drink-900.webp",
+          "sha256": "019e44965bc3471df78d762aa8cef2e63919dd1ed69d937e670480264d948a18",
+          "bytes": 60806
+        }
+      ]
+    },
+    {
+      "id": "fachada-google-proprietario",
+      "priority": "principal",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TJQ2f2e2niS7gcKIyLwO8xeSMrm0O--nKBWiCwn0PD2VaLJZ6wfQqsivsA7ZOeku5P09z4tCDzQ4O79C2hunM5x141QbGY66j38mz1iIzwAuJ4XfTYbupRNC8lh_X8zpZzbjBC5Q=s643-k-no",
+      "sourcePageUrl": "https://maps.app.goo.gl/y7qNjnB98YrS8g5b8?g_st=ic",
+      "sourceType": "Google Business, galeria Do proprietário, origem conferida pelo agente responsável no navegador",
+      "caption": null,
+      "datePublished": "2023-06",
+      "dateContext": "Mês e ano confirmados no Google Business em 07/10/2026.",
+      "contentIdentification": "Fachada com nome Casa da Macaxeira e logo laranja; entrada junto à Stop Bebidas.",
+      "usageNotes": "643×362 é a versão exata observada no DOM. Não ampliar acima da resolução nativa.",
+      "width": 643,
+      "height": 362,
+      "rights": {
+        "license": null,
+        "permissionStatus": "pendente",
+        "reuseEvidence": "Fonte pública consultada não apresentou licença de reutilização nem autorização específica.",
+        "publicationContext": "Candidata para proposta pública independente com aviso; não é evidência de autorização para site oficial."
+      },
+      "outputs": [
+        {
+          "file": "assets/images/fachada.webp",
+          "sha256": "1ed1a682b5d28a63304b62e402252b4abef32224da191a75bf2aa4cc2166cddb",
+          "bytes": 50750
+        }
+      ]
+    },
+    {
+      "id": "salao-google-proprietario",
+      "priority": "principal",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SriH0WAxnnHu0MlWxg2qr7LuoWP-jwnQepFqW7IQZCWNKwOE70ATjMDS5x7y9adUFzqzsqe5iKZXwgWZXv-Jb4BUa8TEenWFvNc8tG4Be75UBmlvKI4aWU7-kZsHPtO8ALp98=s635-k-no",
+      "sourcePageUrl": "https://maps.app.goo.gl/y7qNjnB98YrS8g5b8?g_st=ic",
+      "sourceType": "Google Business, galeria Do proprietário, origem conferida pelo agente responsável no navegador",
+      "caption": null,
+      "datePublished": "2023-06",
+      "dateContext": "Mês e ano confirmados no Google Business em 07/10/2026.",
+      "contentIdentification": "Salão estreito com mesas de madeira, paredes amarelas, murais e revestimentos de bambu.",
+      "usageNotes": "476×635 é a versão exata observada no DOM. Boa imagem vertical de ambiente.",
+      "width": 476,
+      "height": 635,
+      "rights": {
+        "license": null,
+        "permissionStatus": "pendente",
+        "reuseEvidence": "Fonte pública consultada não apresentou licença de reutilização nem autorização específica.",
+        "publicationContext": "Candidata para proposta pública independente com aviso; não é evidência de autorização para site oficial."
+      },
+      "outputs": [
+        {
+          "file": "assets/images/salao.webp",
+          "sha256": "2075085f61f8fd503b31202e305b46a5ed16e287263190295e3449e0779f3d2d",
+          "bytes": 80786
+        }
+      ]
+    },
+    {
+      "id": "classico-carne-sol-macaxeira-cuscuz-acervo",
+      "priority": "acervo-opcional",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/73/af/14/carne-de-sol-macaxeira.jpg?h=-1&s=1&w=1600",
+      "sourcePageUrl": "https://www.tripadvisor.com.br/Restaurant_Review-g303216-d10112813-Reviews-Casa_da_Macaxeira-Maceio_State_of_Alagoas.html",
+      "sourceType": "Foto de viajante na ficha do Tripadvisor; associada à avaliação de Flavioteach",
+      "caption": "Carne de sol, macaxeira e cuscuz",
+      "datePublished": null,
+      "dateContext": "Associada à avaliação Macaxeira de bom gosto, visita junho de 2017, publicada 2017-06-02. Data da tomada não informada separadamente.",
+      "contentIdentification": "Prato explicitamente identificado pela legenda de origem. Macaxeira, carne de sol com cebola e cuscuz em recipientes pretos.",
+      "usageNotes": "Usar somente com indicação Acervo • 2017. Não usar como comprovação da apresentação atual. Permissão do autor pendente.",
+      "width": 1600,
+      "height": 902,
+      "rights": {
+        "license": null,
+        "permissionStatus": "pendente",
+        "reuseEvidence": "Fonte pública consultada não apresentou licença de reutilização nem autorização específica.",
+        "publicationContext": "Candidata para proposta pública independente com aviso; não é evidência de autorização para site oficial."
+      },
+      "outputs": [
+        {
+          "file": "assets/images/macaxeira-640.webp",
+          "sha256": "91ddeab7aece419590bf7a70d849705bf3b31851948f4f97aa7c16d0ab167603",
+          "bytes": 48210
+        },
+        {
+          "file": "assets/images/macaxeira-1200.webp",
+          "sha256": "12eaeee8659349deb2dcf445a5e1cdd40f21b3be191a158b4d58477b4e909073",
+          "bytes": 157104
+        }
+      ]
+    }
+  ]
+}

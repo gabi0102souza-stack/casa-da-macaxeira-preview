@@ -1,0 +1,24 @@
+Fonte: https://maps.app.goo.gl/y7qNjnB98YrS8g5b8?g_st=ic
+Galéria Do proprietário. Fotos 1 (fachada) e 2 (salão), verificadas em 07/10/2026: ambas jun. de 2023.
+
+    - heading [level=1]
+    - generic: Foto - jun. de 2023
+    - button "Menu":
+      - generic: 
+  - button "Compartilhar":
+    - generic: 
+    - generic: Compartilhar
+  - button "Fechar":
+    - generic: 
+  - generic "Mapa interativo"
+  - button "Anterior":
+    - generic: 
+  - button "Avançar":
+    - generic: 
+  - contentinfo:
+    - generic: "Captura da imagem: jun. de 2023"
+    - generic: As imagens podem ter direitos autorais.
+    - button "Brasil"
+    - button "Termos"
+    - button "Privacidade"
+    - button "Enviar feedback sobre o produto"

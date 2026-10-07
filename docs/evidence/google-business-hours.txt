@@ -1,0 +1,177 @@
+Fonte: https://maps.app.goo.gl/y7qNjnB98YrS8g5b8?g_st=ic
+Consulta: 07/10/2026
+
+    - button "Foto de Casa da Macaxeira":
+    - button "Ver fotos":
+      - generic: 
+      - generic: Ver fotos
+    - heading "Casa da Macaxeira" [level=1]: Casa da Macaxeira
+    - text: 4,6
+    - img "4,6 estrelas"
+    - img "1.054 avaliações": (1.054)
+    - text: ·
+    - img "R$ 20 a R$ 100": R$ 20–100
+    - button "Restaurante"
+    - text: ·
+    - img "Entrada acessível para pessoas em cadeira de rodas": 
+    - tablist:
+      - tab "Visão geral de Casa da Macaxeira" [selected]:
+        - generic: Visão geral
+      - tab "Cardápio":
+        - generic: Cardápio
+      - tab "Avaliações de Casa da Macaxeira":
+        - generic: Avaliações
+      - tab "Sobre Casa da Macaxeira":
+        - generic: Sobre
+    - region "Ações em Casa da Macaxeira":
+      - button "Rotas":
+        - generic: 
+        - generic: Rotas
+      - button "Salvar":
+        - generic: 
+        - generic: Salvar
+      - button "Próximo":
+        - generic: 
+        - generic: Próximo
+      - button "Enviar para o smartphone":
+        - generic: 
+        - generic: Enviar para o smartphone
+      - button "Compartilhar":
+        - generic: 
+        - generic: Compartilhar
+    - region "Sobre Casa da Macaxeira":
+      - button "Serve refeição no local Oferece retirada na porta Faz entrega":
+        - group "Serve refeição no local":
+          - text: ·
+          - generic: 
+          - generic: Refeição no local
+        - group "Oferece retirada na porta":
+          - text: ·
+          - generic: 
+          - generic: Retirada na porta
+        - group "Faz entrega":
+          - text: ·
+          - generic: 
+          - generic: Entrega
+        - generic: 
+    - region "Informações de Casa da Macaxeira":
+      - 'button "Endereço: Pr. 13 de Maio, 84 - Poço, Maceió - AL, 57025-420"':
+        - generic: 
+        - generic: Pr. 13 de Maio, 84 - Poço, Maceió - AL, 57025-420
+      - button "Copiar endereço":
+        - generic: 
+      - button "Horário de funcionamento Aberto agora Mostrar horário de funcionamento da semana" [expanded] [active]:
+        - img "Horário de funcionamento": 
+        - generic: Aberto agora
+        - img "Mostrar horário de funcionamento da semana": 
+      - table:
+        - rowgroup:
+          - row "quarta-feira 11:00 a 23:00 quarta-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+            - cell "quarta-feira":
+              - generic: quarta-feira
+            - cell "11:00 a 23:00":
+              - list:
+                - listitem: 11:00–23:00
+            - cell "quarta-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+              - button "quarta-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+                - generic: 
+          - row "quinta-feira 11:00 a 23:00 quinta-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+            - cell "quinta-feira":
+              - generic: quinta-feira
+            - cell "11:00 a 23:00":
+              - list:
+                - listitem: 11:00–23:00
+            - cell "quinta-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+              - button "quinta-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+                - generic: 
+          - row "sexta-feira 11:00 a 23:00 sexta-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+            - cell "sexta-feira":
+              - generic: sexta-feira
+            - cell "11:00 a 23:00":
+              - list:
+                - listitem: 11:00–23:00
+            - cell "sexta-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+              - button "sexta-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+                - generic: 
+          - row "sábado 11:00 a 23:00 sábado, 11:00 a 23:00, Copiar horário de funcionamento":
+            - cell "sábado":
+              - generic: sábado
+            - cell "11:00 a 23:00":
+              - list:
+                - listitem: 11:00–23:00
+            - cell "sábado, 11:00 a 23:00, Copiar horário de funcionamento":
+              - button "sábado, 11:00 a 23:00, Copiar horário de funcionamento":
+                - generic: 
+          - row "domingo 11:00 a 23:00 domingo, 11:00 a 23:00, Copiar horário de funcionamento":
+            - cell "domingo":
+              - generic: domingo
+            - cell "11:00 a 23:00":
+              - list:
+                - listitem: 11:00–23:00
+            - cell "domingo, 11:00 a 23:00, Copiar horário de funcionamento":
+              - button "domingo, 11:00 a 23:00, Copiar horário de funcionamento":
+                - generic: 
+          - row "segunda-feira (Dia de Nossa Senhora Aparecida) 11:00 a 23:00, Os horários podem ser diferentes segunda-feira (Dia de Nossa Senhora Aparecida), 11:00 a 23:00, Os horários podem ser diferentes, Copiar horário de funcionamento":
+            - cell "segunda-feira (Dia de Nossa Senhora Aparecida)":
+              - generic: segunda-feira
+              - generic: (Dia de Nossa Senhora Aparecida)
+            - cell "11:00 a 23:00, Os horários podem ser diferentes":
+              - list:
+                - listitem: 11:00–23:00
+              - generic: Os horários podem ser diferentes
+            - cell "segunda-feira (Dia de Nossa Senhora Aparecida), 11:00 a 23:00, Os horários podem ser diferentes, Copiar horário de funcionamento":
+              - button "segunda-feira (Dia de Nossa Senhora Aparecida), 11:00 a 23:00, Os horários podem ser diferentes, Copiar horário de funcionamento":
+                - generic: 
+          - row "terça-feira 11:00 a 23:00 terça-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+            - cell "terça-feira":
+              - generic: terça-feira
+            - cell "11:00 a 23:00":
+              - list:
+                - listitem: 11:00–23:00
+            - cell "terça-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+              - button "terça-feira, 11:00 a 23:00, Copiar horário de funcionamento":
+                - generic: 
+      - button "Sugerir uma edição para o horário de funcionamento":
+        - generic: Sugerir novos horários
+      - 'button "Faixa de preço: R$ 20–100 por pessoa. Informada por 47 pessoas."':
+        - text: R$ 20–100 por pessoa
+        - generic: Informado por 47 pessoas
+      - link "Cardápio contate.me":
+        - /url: https://contate.me/casadamacaxeira
+        - generic: 
+        - generic: Cardápio
+        - generic: contate.me
+      - link "Abrir link do cardápio":
+        - /url: https://contate.me/casadamacaxeira
+        - generic: 
+      - button "Copiar link do cardápio":
+        - generic: 
+      - 'link "Website: linktr.ee"':
+        - /url: https://linktr.ee/Casadamacaxeira
+        - generic: 
+        - generic: linktr.ee
+      - link "Abrir website":
+        - /url: https://linktr.ee/Casadamacaxeira
+        - generic: 
+      - button "Copiar website":
+        - generic: 
+      - 'button "Telefone: (82) 98753-3631"':
+        - generic: 
+        - generic: (82) 98753-3631
+      - button "Copiar número de telefone":
+        - generic: 
+      - link "Ligar para número de telefone":
+        - /url: tel:082987533631
+        - generic: 
+      - 'button "Plus Code: 87MF+GC Poço, Maceió - AL"':
+        - generic: 
+        - generic: 87MF+GC Poço, Maceió - AL
+      - button "Copiar Plus Code":
+        - generic: 
+      - button "Saiba mais sobre os Plus Codes":
+        - generic: 
+      - generic: Empresa que acolhe a comunidade LGBTQ+
+      - generic: Se identifica como uma empresa de empreendedoras
+      - button "Seu histórico do Google Maps":
+        - generic: 
+        - generic: Seu histórico do Google Maps

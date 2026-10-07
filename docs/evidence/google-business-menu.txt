@@ -1,0 +1,191 @@
+- generic "Google Maps":
+  - application "Mapa·Use as teclas de seta para mover o mapa.·Veja os detalhes de um lugar pressionando a tecla de número correspondente."
+  - search:
+    - button "Voltar":
+      - generic: 
+    - combobox: Casa da Macaxeira
+    - button "Pesquisar":
+      - generic: 
+    - button "Fechar":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "Opções de pesquisa disponíveis para essa área":
+    - button "Restaurantes por perto":
+      - generic: 
+      - generic: Restaurantes por perto
+    - button "Hotéis":
+      - generic: 
+      - generic: Hotéis
+    - button "Coisas legais para fazer":
+      - generic: 
+      - generic: Coisas legais para fazer
+    - button "Bares":
+      - generic: 
+      - generic: Bares
+    - button "Café":
+      - generic: 
+      - generic: Café
+    - button "Para viagem":
+      - generic: 
+      - generic: Para viagem
+    - button "Supermercados":
+      - generic: 
+      - generic: Supermercados
+    - button "Próxima página":
+      - generic: 
+  - list:
+    - button "Menu":
+      - generic: 
+    - button "Salvos":
+      - generic: 
+      - generic: Salvos
+    - button "Recentes":
+      - generic: 
+      - generic: Recentes
+    - button "Casa da Macaxeira":
+      - generic: Casa da Macaxeira
+    - button "Baixar o aplicativo":
+      - generic: 
+      - generic: Baixar o aplicativo
+  - main "Casa da Macaxeira":
+    - tablist:
+      - tab "Visão geral de Casa da Macaxeira":
+        - generic: Visão geral
+      - tab "Cardápio" [active] [selected]:
+        - generic: Cardápio
+      - tab "Avaliações de Casa da Macaxeira":
+        - generic: Avaliações
+      - tab "Sobre Casa da Macaxeira":
+        - generic: Sobre
+    - tablist:
+      - tab "Visão geral" [selected]:
+        - generic: Visão geral
+      - tab "Almoço":
+        - generic: Almoço
+      - tab "Adicionais":
+        - generic: Adicionais
+      - tab "Picanha Na Chapa":
+        - generic: Picanha Na Chapa
+      - tab "Costela Suína":
+        - generic: Costela Suína
+      - tab "Maminha Na Chapa":
+        - generic: Maminha Na Chapa
+      - tab "Carne De Sol Suína":
+        - generic: Carne De Sol Suína
+      - tab "Carne De Sol Bovina":
+        - generic: Carne De Sol Bovina
+      - tab "Charque Acebolado":
+        - generic: Charque Acebolado
+      - tab "Cupim Acebolado":
+        - generic: Cupim Acebolado
+      - tab "Camarão Acebolado":
+        - generic: Camarão Acebolado
+      - tab "Peixada":
+        - generic: Peixada
+      - tab "Feijoada":
+        - generic: Feijoada
+      - tab "Parmegiana":
+        - generic: Parmegiana
+      - tab "Sopa":
+        - generic: Sopa
+      - tab "Macaxeira Fritas":
+        - generic: Macaxeira Fritas
+      - tab "Janta Mista":
+        - generic: Janta Mista
+      - tab "Arrumadinhos":
+        - generic: Arrumadinhos
+      - tab "Escondidinho":
+        - generic: Escondidinho
+      - tab "Cuscuz":
+        - generic: Cuscuz
+      - tab "Café":
+        - generic: Café
+      - tab "Petiscos":
+        - generic: Petiscos
+      - tab "Caldinhos":
+        - generic: Caldinhos
+      - tab "Churrasquinho Na Brasa":
+        - generic: Churrasquinho Na Brasa
+      - tab "Bolinho":
+        - generic: Bolinho
+      - tab "Caldi":
+        - generic: Caldi
+      - tab "Churf":
+        - generic: Churf
+      - tab "Outros":
+        - generic: Outros
+    - region "Menu":
+      - heading "Menu" [level=2]:
+        - generic: Menu
+      - button "Foto 1 de 12"
+      - button "Foto 2 de 12"
+      - button "Foto 3 de 12"
+      - button "Foto 4 de 12"
+      - link "Cardápio contate.me":
+        - /url: https://contate.me/casadamacaxeira
+        - generic: 
+        - generic: Cardápio
+        - generic: contate.me
+      - button "Copiar link do cardápio":
+        - generic: 
+      - button "Abrir link do cardápio":
+        - generic: 
+      - heading "Destaques" [level=2]
+      - button "Macaxeira Com Carne de Sol"
+      - generic: Macaxeira Com Carne de Sol
+      - button "Macaxeira Com Charque"
+      - generic: Macaxeira Com Charque
+      - button "Cupim"
+      - generic: Cupim
+      - button "Caldinho de Siri"
+      - generic: Caldinho de Siri
+      - button "Parmegiana Frango"
+      - generic: Parmegiana Frango
+      - button "Caldinho de Feijão"
+      - generic: Caldinho de Feijão
+      - button "Boi Guisado"
+      - generic: Boi Guisado
+      - button "Cuscuz Recheado"
+      - generic: Cuscuz Recheado
+      - button "Arrumadinho de Charque E Carne de Sol"
+      - generic: Arrumadinho de Charque E Carne de ...
+      - button "Suco Jarra de Laranja"
+      - generic: Suco Jarra de Laranja
+      - button "Cerveja Original"
+      - generic: Cerveja Original
+      - button "Caipirinha"
+      - generic: Caipirinha
+      - button "Macaxeira Com Calabresa E Cuscuz Com Charque"
+      - generic: Macaxeira Com Calabresa E Cuscuz C...
+      - button "Macaxeira E Cuscuz"
+      - generic: Macaxeira E Cuscuz
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+  - button "Recolher painel lateral":
+    - generic: 
+  - button "Google Apps":
+  - button "Mostrar seu local":
+    - generic: 
+  - button "Aumentar zoom":
+    - generic: 
+  - button "Diminuir zoom":
+    - generic: 
+  - button "Navegar pelas imagens do Street View"
+  - button "Street View":
+    - generic: 
+  - generic "Mapa interativo"
+  - generic: 
+  - generic: Camadas
+  - button "Camadas"
+  - contentinfo:
+    - text: Dados do mapa ©2026 Google
+    - button "Brasil"
+    - button "Termos"
+    - button "Privacidade"
+    - button "Enviar feedback sobre o produto"
+  - button "100 m": 100 m
